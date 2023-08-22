@@ -1,0 +1,21 @@
+# Установка первичных файлов 
+kitty fish cmatrix ranger terminology
+
+# Настройка fish
+https://github.com/jorgebucaran/fisher
+https://zencod.ru/articles/fish-shell/
+https://github.com/oh-my-fish/oh-my-fish
+
+# Установка AUR
+sudo pacman -S git base-devel
+git clone https://aur.archlinux.org/yay-bin.git
+cd yay-bin
+makepkg -si
+
+yay -S google-chrome
+
+# Клонирование данных настройки
+https://notabug.org/owl410/owl_dotfiles.git
+
+
+
