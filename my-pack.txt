@@ -1,3 +1,6 @@
+# Git link
+https://github.com/ShadowFromHell/my-date.git
+
 # Установка первичных файлов 
 kitty fish cmatrix ranger terminology
 
