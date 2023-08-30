@@ -20,5 +20,8 @@ yay -S google-chrome
 # Клонирование данных настройки
 https://notabug.org/owl410/owl_dotfiles.git
 
+#openai key:
+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
+
 
 
