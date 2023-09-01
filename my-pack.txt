@@ -21,7 +21,7 @@ yay -S google-chrome
 https://notabug.org/owl410/owl_dotfiles.git
 
 #openai key:
-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
+openai_key": "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"
 
 
 
